@@ -1,0 +1,10 @@
+﻿node_modules/
+dist/
+coverage/
+.vite/
+uploads/
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
